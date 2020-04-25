@@ -8,6 +8,7 @@ function createHTMLList(arr) {
       ul.appendChild (li);
     });
   }
+  
   const myHobbies = [
     'Meditation',
     'Reading',
