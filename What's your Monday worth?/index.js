@@ -18,7 +18,7 @@ const mondayTasks = [
       name: 'Feature discussion',
       duration: 120,
     },
-    {
+    {   
       name: 'Development time',
       duration: 240,
     },
